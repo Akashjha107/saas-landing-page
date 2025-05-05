@@ -2,6 +2,8 @@
 
 A sleek, modern, and fully responsive SaaS app landing page built with the latest tools in web development. This project is beginner-friendly yet powerful enough for pros looking to level up their portfolio.
 
+📁 [Assets](https://drive.google.com/drive/folders/1zozOXqMlOFJ92sETpmy_2sXMbI6CSdbO?usp=sharing)
+
 ---
 
 ## 🛠 Tech Stack
